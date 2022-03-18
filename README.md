@@ -1,2 +1,2 @@
 # rsschool-cv
-  [MY CV](https://julasweta.github.io/rsschool-cv/cv)
+  [MY CV](https://github.com/julasweta/rsschool-cv/blob/gh-pages/cv.md)
